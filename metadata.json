@@ -1,0 +1,5 @@
+{
+  "name": "Intelligent Personal Finance Chatbot",
+  "description": "An intelligent chatbot providing personalized financial guidance on savings, taxes, and investments. It adapts its communication style based on your profile to make financial planning accessible and actionable.",
+  "requestFramePermissions": []
+}
